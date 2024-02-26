@@ -34,6 +34,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     dico_file = "../dico/" + sys.argv[1]
-    conll_file = sys.argv[2]
-    store_cara_gloss(dico_file, conll_file)
+    conll_file = "../conll/"+ sys.argv[2]
+    store_gloss3(dico_file, conll_file)
 
