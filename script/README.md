@@ -5,6 +5,11 @@ Goal : Store gloss of chinese characters and words, and add them in conll.
 
 **Usage of scripts**
 
+```
+python3 run.py  ==>  enter "store" to update gloss dicos, or enter "attach" to attach gloss to the conll
+```
+
+
 1. Store the gloss
 ```
 store_char.py  ==>  store new gloss of chinese characters in tmp1.txt
