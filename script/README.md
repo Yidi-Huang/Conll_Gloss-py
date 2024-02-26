@@ -10,6 +10,7 @@ Goal : Store gloss of chinese characters and words, and add them in conll.
     
 ⇒ enter "store" to update gloss dicos according to your conll, or enter "attach" to attach gloss to your conll
 
+## Details of scripts
 
 1. Store the gloss
 ```
